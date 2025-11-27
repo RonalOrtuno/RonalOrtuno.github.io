@@ -10,11 +10,11 @@ My GitHub page is http://github.com/RonalOrtuno
 
 * Lab 6
 
-    Lab 6, Part 2 was one of my favorite labs because prior to this lab, I had never known the rules of Blackjack. I found it really fun learning a new card game for the sole purpose of recreating that card game in code. Learning all the rules of Blackjack made me interested in learning how to play the game outside of the lab. 
+    Lab 6, Part 2 was one of my favorite labs because prior to this lab, I had never known the rules of Blackjack. I found it really fun learning a new card game for the sole purpose of recreating that card game in code. This lab was a fun challenege because I was Learning all the rules of Blackjack which made me interested in learning how to play the game outside of the lab. 
 
 * Lab 2
 
-    Lab 2 was something that I found enjoyment in because it was simple yet informative. Learning how to output information that was given by the user is a fundamental topic in c++. I would say that this lab was important because it covered an important topic regarding insertion and extraction operators. 
+    Lab 2 was something that I found enjoyment in because it was simple yet informative. Learning how to output information that was given by the user is a fundamental topic in c++. I would say that this lab was important because it covered an important topic regarding insertion and extraction operators. This is something that I would not skip if I was trying to increase my knowledge on c++.
 
 * Lab 7
 
